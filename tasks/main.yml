@@ -1,2 +1,5 @@
 ---
-# tasks file for helloworld
+- name: Install curl
+  package:
+    name: curl
+    state: present
