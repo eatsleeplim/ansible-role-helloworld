@@ -1,6 +1,8 @@
 Role Name
 =========
 
+[![Build Status](https://travis-ci.org/eatsleeplim/ansible-role-helloworld.svg?branch=master)](https://travis-ci.org/eatsleeplim/ansible-role-helloworld)
+
 A brief description of the role goes here.
 
 Requirements
