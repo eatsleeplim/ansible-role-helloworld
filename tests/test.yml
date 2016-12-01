@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - helloworld
+    - role_under_test
