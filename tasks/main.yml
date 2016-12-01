@@ -10,7 +10,7 @@
     name: curl
     state: present
 
-- name: Install terraform
+- name: Install docker-py
   pip:
-    name: terraform
+    name: docker-py
     state: present
