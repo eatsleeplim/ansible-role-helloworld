@@ -9,3 +9,8 @@
   package:
     name: curl
     state: present
+
+- name: Install terraform
+  pip:
+    name: terraform
+    state: present
