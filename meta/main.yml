@@ -124,23 +124,11 @@ galaxy_info:
   #  - 9.1
   #  - 9.2
   #  - 9.3
-  #- name: Ubuntu
-  #  versions:
-  #  - all
-  #  - lucid
-  #  - maverick
-  #  - natty
-  #  - oneiric
-  #  - precise
-  #  - quantal
-  #  - raring
-  #  - saucy
-  #  - trusty
-  #  - utopic
-  #  - vivid
-  #  - wily
-  #  - xenial
-  #  - yakkety
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+    - xenial
   #- name: Debian
   #  versions:
   #  - all
@@ -155,12 +143,10 @@ galaxy_info:
   #  versions:
   #  - all
   #  - any
-  #- name: EL
-  #  versions:
-  #  - all
-  #  - 5
-  #  - 6
-  #  - 7
+  - name: EL
+    versions:
+    - 6
+    - 7
   #- name: Windows
   #  versions:
   #  - all
